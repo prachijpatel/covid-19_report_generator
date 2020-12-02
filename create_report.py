@@ -39,7 +39,7 @@ pdf.set_font("Arial", "B""I", size=30)
 pdf.cell(200, 10, txt="COVID - 19 Analysis Report",
          ln=1, align='C')
 pdf.set_font("Arial", "B", size=20)
-pdf.cell(200, 10, txt="Prachi j Patel",
+pdf.cell(200, 10, txt="Prachi Patel",
          ln=2, align='C')
 
 pdf.ln(10)
