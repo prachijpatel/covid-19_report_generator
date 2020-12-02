@@ -27,5 +27,5 @@ $ pip install plotly
  - #### Some error might occur because of sending email, you need to specify your email address and password.
 
 
-- #### For automation i used Cronjob for automatic run my script on particluar time.
+- #### For automation I used Cronjob for running my script on particluar time.
 
