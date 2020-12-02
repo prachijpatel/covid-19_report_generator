@@ -1,16 +1,11 @@
 # **COVID-19 India Report generator**
 
----
-<!-- ![Cover Page](./images/1.png)
- ![First Page](./images/2.png)
- ![Second Page](./images/3.png)
- ![Third Page](./images/4.png) -->
-<img src="./images/1.png" height="200" width="150">  <img src="./images/2.png" height="200" width="150">
-<img src="./images/3.png" height="200" width="150"> <img src="./images/4.png" height="200" width="150">
 
+ ![Cover Page](./images/1.png) 
+ 
 --- 
 
-<!-- ### [Covid-19 Report](https://github.com/malavmevada/Covid-19-Report-generator/blob/master/covid_report.pdf) -->
+### [Covid-19 Report](https://github.com/prachijpatel/covid-19_report_generator/blob/master/report.pdf)
 
 ### This report is generated and is also sent through email automatically.
 
