@@ -137,8 +137,7 @@ pdf.output("report.pdf", 'F')
 
 EMAIL_USER = os.environ.get('EMAIL_USER')
 EMAIL_PASSWORD = os.environ.get('EMAIL_PASSWORD')
-# EMAIL_USER = 'pachi.jpatel1@gmail.com'
-# EMAIL_PASSWORD = 'gyaeltuvdkbiuwid'
+
 print(EMAIL_USER, EMAIL_PASSWORD)
 contacts = ['prachi.jpatel23@gmail.com', 'prachi.jpatel11@gmail.com']
 
